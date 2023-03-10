@@ -1,2 +1,2 @@
 const test = "test"
-alert("hello World!")
+alert("hello people!")
